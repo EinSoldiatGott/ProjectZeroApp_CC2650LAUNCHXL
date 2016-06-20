@@ -1,0 +1,5 @@
+# FIXED
+
+Startup/CC2650_LAUNCHXL.obj: ../Startup/CC2650_LAUNCHXL.c
+
+../Startup/CC2650_LAUNCHXL.c: 
